@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "98602473214",
+    "project_id": "the-owensboro-app",
+    "storage_bucket": "the-owensboro-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98602473214:android:54b1ed9addc283112237af",
+        "android_client_info": {
+          "package_name": "com.example.flutterflow_custom_widget"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqDRAfIws8E1JO3JYL2iCUW3jsbzd469E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98602473214:android:1c3f069d7c3fe2c12237af",
+        "android_client_info": {
+          "package_name": "com.mycompany.theowensboroapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqDRAfIws8E1JO3JYL2iCUW3jsbzd469E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
